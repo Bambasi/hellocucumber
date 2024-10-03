@@ -1,2 +1,15 @@
+hellocucumber\TeamLeader.class
+hellocucumber\HRManager.class
 hellocucumber\RunCucumberTest.class
+hellocucumber\Task.class
+hellocucumber\AbsenceDeclarationSteps.class
+hellocucumber\Employe.class
+hellocucumber\TechnicalDirector.class
+hellocucumber\TeamManager.class
 hellocucumber\StepDefinitions.class
+hellocucumber\DemandeCongeSteps.class
+hellocucumber\Employee.class
+hellocucumber\TeamLead.class
+hellocucumber\ProjectManager.class
+hellocucumber\AbsenceForm.class
+hellocucumber\GestionActionListSteps.class
